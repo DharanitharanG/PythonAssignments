@@ -1,0 +1,5 @@
+Write a program to validate given email id as vaild or not. Below requirements must be satisfied
+ * Must contain one '@' and one or two '.'
+ * there should be atleast 2 characters between '@' and '.'
+ * there should be atleast 2 characters between two '.' s if present
+ * minimum 10 characters, maximum 25 characters
